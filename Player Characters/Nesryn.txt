@@ -1,0 +1,230 @@
+Basic Information
+
+	•	Name: Nesryn
+	•	Race: Orc
+	•	Class/Level: Paladin 6 / Warlock 12
+	•	Campaign: Fuxk around and find out
+	•	Alignment: Not specified
+
+Ability Scores
+
+	•	Strength: 21 (+5)
+	•	Dexterity: 10 (+0)
+	•	Constitution: 18 (+4)
+	•	Intelligence: 8 (-1)
+	•	Wisdom: 12 (+1)
+	•	Charisma: 19 (+4)
+	•	Proficiency Bonus: +6
+	•	Speed: 30 ft.
+
+Health
+
+	•	Current Hit Points: 71
+	•	Max Hit Points: 172
+	•	Temporary Hit Points: –
+
+Saving Throws
+
+	•	Strength: +9
+	•	Dexterity: +4
+	•	Constitution: +8
+	•	Intelligence: +3
+	•	Wisdom: +11
+	•	Charisma: +14
+	•	Special: +4 on saves to maintain concentration on spells.
+
+Senses
+
+	•	Passive Wisdom (Perception): 11
+	•	Passive Intelligence (Investigation): 9
+	•	Passive Wisdom (Insight): 17
+	•	Darkvision: 120 ft.
+
+Proficiencies & Languages
+
+	•	Armor: Heavy Armor, Light Armor, Medium Armor, Shields
+	•	Weapons: Martial Weapons, Simple Weapons
+	•	Tools: Dragonchess Set, Three-Dragon Ante Set
+	•	Languages: Common, Ogre
+
+Skills
+
+	•	Acrobatics (DEX): +0
+	•	Animal Handling (WIS): +1
+	•	Arcana (INT): -1
+	•	Athletics (STR): +5
+	•	Deception (CHA): +4
+	•	History (INT): -1
+	•	Insight (WIS): +7
+	•	Intimidation (CHA): +4
+	•	Investigation (INT): -1
+	•	Medicine (WIS): +1
+	•	Nature (INT): -1
+	•	Perception (WIS): +1
+	•	Performance (CHA): +4
+	•	Persuasion (CHA): +10
+	•	Religion (INT): +5
+	•	Sleight of Hand (DEX): +0
+	•	Stealth (DEX): +6
+	•	Survival (WIS): +1
+	•	Initiative: +0
+	•	Armor Class: 18
+
+Defenses
+
+	•	Immunities: Disease
+
+Actions
+
+	•	Attacks per Action: 2
+
+Weapons
+
+	1.	Eldritch Blast (Cantrip)
+		•	Range: 300 ft.
+		•	Hit: +10
+		•	Damage: 1d10+4
+		•	Notes: Count: 4, V/S
+	2.	Unarmed Strike
+		•	Range: 5 ft.
+		•	Hit: +11
+		•	Damage: 6
+
+Other Actions in Combat
+
+	•	Attack, Cast a Spell, Dash, Disengage, Dodge, Grapple, Help, Hide, Improvise, Ready, Search, Shove, Use an Object
+
+Channel Divinity
+
+	•	Abjure Enemy: Choose a creature within 60 ft. to make a WIS saving throw (DC 18). On failure, frightened and speed reduced to 0. On success, speed halved.
+	•	Vow of Enmity: Choose a creature within 10 ft. to gain advantage on attack rolls against it for 1 minute.
+
+Other Abilities
+
+	•	Create Pact Weapon: Create a magical weapon in your hand or transform a magic weapon into your pact weapon.
+	•	Divine Sense: Detect good and evil within 60 ft. for 1 turn, 5 times per long rest.
+	•	Extra Attack: Attack twice on your turn.
+	•	Lay on Hands: Restore 30 HP or cure diseases/poison (5 HP per use) per long rest.
+
+Bonus Actions
+
+	•	Adrenaline Rush: Dash as a bonus action 6 times per long rest, gaining 6 temporary HP.
+	•	Hexblade’s Curse: Curse a creature within 30 ft. for 1 minute, gaining +6 to damage, crit on 19-20, regain 16 HP if it dies.
+	•	Polearm Master: Make a melee attack with the opposite end of a polearm as a bonus action.
+
+Reactions
+
+	•	Polearm Master: Opportunity attack when creatures enter your reach.
+	•	Armor of Hexes: Roll a d6 on a hit from a cursed target; on 4+, the attack misses.
+	•	Sentinel: Attack creatures within 5 ft. that attack others.
+	•	War Caster: Cast a spell as an opportunity attack.
+
+Spells
+
+	•	Spellcasting Ability: Charisma
+	•	Spell Save DC: 18
+	•	Spell Attack Bonus: +10
+
+Cantrips
+
+	•	Eldritch Blast
+	•	Mage Hand
+	•	Minor Illusion
+	•	Prestidigitation
+
+1st-Level Spells
+
+	•	Bane
+	•	Bless
+	•	Cure Wounds
+	•	Hex
+	•	Hunter’s Mark
+	•	Mage Armor
+	•	Protection from Evil and Good
+	•	Searing Smite
+	•	Wrathful Smite
+
+2nd-Level Spells
+
+	•	Blur
+	•	Branding Smite
+	•	Hold Person
+	•	Misty Step
+	•	Zone of Truth
+
+3rd-Level Spells
+
+	•	Animate Dead
+
+5th-Level Spells
+
+	•	Banishing Smite
+	•	Counterspell
+	•	Dimension Door
+	•	Hold Monster
+	•	Major Image
+	•	Phantasmal Killer
+	•	Raulothim’s Psychic Lance
+	•	Spirit of Death
+	•	Summon Greater Demon
+
+6th-Level Spells
+
+	•	Tasha’s Otherworldly Guise
+
+Inventory
+
+	•	Weight Carried: 71 lb. (Unencumbered)
+	•	Gold: 0
+
+Key Items
+
+	•	Belt of Hill Giant Strength
+	•	Boots of Elvenkind
+	•	Halberd, +1
+	•	Armor of Gleaming, Plate
+
+Features & Traits
+
+Class Features
+
+	•	Paladin Features
+	•	Divine Sense: Detect good and evil within 60 ft. (5 times per long rest)
+	•	Lay on Hands: Restore 30 HP or cure diseases/poison (5 HP per use) per long rest.
+	•	Fighting Style: Great Weapon Fighting
+	•	Spellcasting: Charisma (DC 18, +10 to hit)
+	•	Divine Smite: Extra radiant damage on melee hits
+	•	Divine Health: Immunity to disease
+	•	Oath of Vengeance
+	•	Abjure Enemy: Frighten and reduce speed of a creature within 60 ft. (DC 18)
+	•	Vow of Enmity: Gain advantage on attack rolls against a creature within 10 ft.
+	•	Aura of Protection: Grant +4 to all saving throws for allies within 10 ft.
+	•	Extra Attack: Attack twice per turn
+	•	Warlock Features
+	•	Hexblade’s Curse: Curse a creature within 30 ft. (1 minute, +6 damage, crit on 19-20, regain 16 HP if it dies)
+	•	Hex Warrior: Proficiency with medium armor, shields, martial weapons; use CHA for attack and damage rolls
+	•	Eldritch Invocations
+	•	Devil’s Sight: See in darkness (120 ft.)
+	•	Agonizing Blast: Add +4 to Eldritch Blast damage
+	•	Undying Servitude: Cast Animate Dead once per long rest
+	•	Armor of Shadows: Cast Mage Armor at will
+	•	Eldritch Spear: Extend Eldritch Blast range to 300 ft.
+	•	Grasp of Hadar: Move hit creature 10 ft. closer on hit with Eldritch Blast
+	•	Pact of the Blade: Create a magical weapon
+	•	Accursed Specter: Create a specter from a slain humanoid (1 per long rest)
+	•	Armor of Hexes: Miss attack from cursed target on a 4+ (d6)
+	•	Mystic Arcanum (6th level): Cast Tasha’s Otherworldly Guise once per long rest
+
+Racial Traits
+
+	•	Adrenaline Rush: Dash as a bonus action (6 times per long rest), gain 6 temporary HP
+	•	Darkvision: 60 ft.
+	•	Powerful Build: Count as one size larger for carrying capacity
+	•	Relentless Endurance: Drop to 1 HP instead of 0 once per long rest
+
+Feats
+
+	•	Great Weapon Master: Extra melee attack on crit or reducing a creature to 0 HP; -5 attack for +10 damage
+	•	Polearm Master: Bonus attack with polearm, opportunity attack when creatures enter reach
+	•	Sentinel: Speed of creatures reduced to 0 on hit with opportunity attack; attack creatures attacking others
+	•	War Caster: Advantage on concentration saves,

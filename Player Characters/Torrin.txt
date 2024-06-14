@@ -1,0 +1,215 @@
+Basic Information
+
+	•	Name: Torinn
+	•	Race: Dragonborn
+	•	Gender: Male
+	•	Class/Level: Ranger 16 / Fighter 3
+	•	Campaign: Fuxk around and find out
+	•	Alignment: Neutral
+
+Ability Scores
+
+	•	Strength: 15 (+2)
+	•	Dexterity: 19 (+4)
+	•	Constitution: 17 (+3)
+	•	Intelligence: 15 (+2)
+	•	Wisdom: 16 (+3)
+	•	Charisma: 14 (+2)
+	•	Proficiency Bonus: +6
+	•	Speed: 30 ft.
+
+Health
+
+	•	Current Hit Points: 85
+	•	Max Hit Points: 175
+	•	Temporary Hit Points: –
+
+Saving Throws
+
+	•	Strength: +8
+	•	Dexterity: +10
+	•	Constitution: +3
+	•	Intelligence: +2
+	•	Wisdom: +3
+	•	Charisma: +2
+
+Senses
+
+	•	Passive Wisdom (Perception): 13
+	•	Passive Intelligence (Investigation): 18
+	•	Passive Wisdom (Insight): 13
+
+Proficiencies & Languages
+
+	•	Armor: Light Armor, Medium Armor, Shields
+	•	Weapons: Martial Weapons, Simple Weapons
+	•	Tools: Smith’s Tools
+	•	Languages: Common, Draconic, Dwarvish, Elvish, Giant, Undercommon
+
+Skills
+
+	•	Acrobatics (DEX): +4
+	•	Animal Handling (WIS): +3
+	•	Arcana (INT): +2
+	•	Athletics (STR): +8
+	•	Deception (CHA): +2
+	•	History (INT):: +2
+	•	Insight (WIS): +3
+	•	Intimidation (CHA): +2
+	•	Investigation (INT): +8
+	•	Medicine (WIS): +3
+	•	Nature (INT): +2
+	•	Perception (WIS): +3
+	•	Performance (CHA): +2
+	•	Persuasion (CHA): +2
+	•	Religion (INT): +2
+	•	Sleight of Hand (DEX): +4
+	•	Stealth (DEX): +10
+	•	Survival (WIS): +3
+	•	Initiative: +4
+	•	Armor Class: 17
+
+Defenses
+
+	•	Immunities: Acid
+
+Actions
+
+	•	Attacks per Action: 2
+
+Weapons
+
+	1.	Longbow +2 (Ranged Weapon)
+		•	Range: 150 ft. (600 ft.)
+		•	Hit: +16
+		•	Damage: 1d8+8
+		•	Notes: Martial, Ammunition, Heavy, Two-Handed
+	2.	Unarmed Strike
+		•	Range: 5 ft.
+		•	Hit: +8
+		•	Damage: 3
+	3.	Breath Weapon (Black)
+		•	Range: 30 ft.
+		•	Hit: 17 (DEX Save)
+		•	Damage: 5d6
+		•	Uses: 1/SR
+
+Other Actions in Combat
+
+	•	Attack, Cast a Spell, Dash, Disengage, Dodge, Grapple, Help, Hide, Improvise, Ready, Search, Shove, Use an Object
+	•	Primeval Awareness: Sense certain creature types within 1-6 miles.
+	•	Unarmed Strike: Punch, kick, head-butt, etc.
+
+Bonus Actions
+
+	•	Two-Weapon Fighting
+	•	Ethereal Step: Once per short rest, cast etherealness (ends at end of turn).
+	•	Giant’s Might: Gain benefits for 1 minute (become Large, advantage on Strength checks and saves, +1d6 damage).
+	•	Planar Warrior: Convert damage to force damage, add 2d8 force damage.
+	•	Second Wind: Regain 1d10 + 3 HP once per short rest.
+	•	Vanish: Hide as a bonus action.
+
+Reactions
+
+	•	Cloud Rune: Redirect attack within 30 ft.
+	•	Spectral Defense: Resistance to damage from one attack.
+
+Other Abilities
+
+	•	Action Surge: Take one additional action (1 time per short rest).
+	•	Distant Strike: Teleport 10 ft. before each attack, extra attack if attacking different creatures.
+	•	Fire Rune: Fiery shackles on hit, 2d6 fire damage, restrain target (STR save), additional fire damage each turn (1/SR).
+	•	Hide in Plain Sight: Camouflage for +10 to Stealth.
+
+Spells
+
+	•	Spellcasting Ability: Wisdom
+	•	Spell Save DC: 17
+	•	Spell Attack Bonus: +9
+
+1st-Level Spells
+
+	•	Cure Wounds
+	•	Longstrider
+	•	Protection from Evil and Good
+
+2nd-Level Spells
+
+	•	Misty Step
+	•	Pass without Trace
+	•	Spike Growth
+
+3rd-Level Spells
+
+	•	Haste
+	•	Protection from Energy
+	•	Speak with Plants
+	•	Wind Wall
+
+4th-Level Spells
+
+	•	Banishment
+	•	Freedom of Movement
+	•	Locate Creature
+
+7th-Level Spells
+
+	•	Etherealness
+
+Inventory
+
+	•	Weight Carried: 52 lb. (Unencumbered)
+	•	Gold: 5,100
+
+Key Items
+
+	•	Wave (Trident)
+	•	Longbow +2
+	•	Ring of Spell Storing
+	•	Scale Mail +1
+	•	Boots of Elvenkind
+	•	Bracers of Archery
+	•	Ring of Mind Shielding
+	•	Ring of Water Walking
+	•	Arrows (20)
+
+Features & Traits
+
+Class Features
+
+	•	Fighter Features
+	•	Fighting Style: Archery (+2 to attack rolls with ranged weapons)
+	•	Second Wind: Regain 1d10 + 3 HP once per short rest
+	•	Action Surge: Take one additional action once per short rest
+	•	Martial Archetype: Rune Knight
+	•	Cloud Rune: Advantage on DEX (Sleight of Hand) and CHA (Deception) checks, redirect attack within 30 ft.
+	•	Fire Rune: Extra 2d6 fire damage, restrain target (STR save), additional fire damage each turn (1/SR)
+	•	Giant’s Might: Gain benefits for 1 minute (become Large, advantage on Strength checks and saves, +1d6 damage, 6 uses per long rest)
+	•	Ranger Features
+	•	Favored Enemy: Undead, Beasts, Plants
+	•	Natural Explorer: Forest, Mountain, Swamp
+	•	Fighting Style: Archery (+2 to attack rolls with ranged weapons)
+	•	Spellcasting: Wisdom (DC 17, +9 to hit)
+	•	Ranger Archetype: Horizon Walker
+	•	Primeval Awareness: Sense certain creature types within 1-6 miles
+	•	Detect Portal: Detect closest planar portal within 1 mile (1/SR)
+	•	Planar Warrior: Convert damage to force damage, add 2d8 force damage
+	•	Ethereal Step: Once per short rest, cast etherealness (ends at end of turn)
+	•	Land’s Stride: No extra movement in difficult terrain, advantage on saves against magical plants
+	•	Hide in Plain Sight: Camouflage for +10 to Stealth
+	•	Distant Strike: Teleport 10 ft. before each attack, extra attack if attacking different creatures
+	•	Spectral Defense: Resistance to damage from one attack
+
+Racial Traits
+
+	•	Draconic Ancestry: Gain breath weapon and damage resistance
+	•	Breath Weapon: Once per short rest, exhale acid in a 5 by 30 ft. line (DEX DC 17, 5d6 acid damage, half on success)
+	•	Damage Resistance: Acid
+
+Feats
+
+	•	Grappler: Advantage on attack rolls against grappled creatures, can pin grappled creatures (both restrained).
+
+Notes
+
+	•	Neutral: Steers clear of moral questions, doing what seems best at the time.

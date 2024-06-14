@@ -1,0 +1,365 @@
+Basic Information
+
+	•	Name: Vaelor Silverhand
+	•	Race: Aasimar
+	•	Class/Level: Wizard 16 / Artificer 3
+	•	Campaign: Fuxk around and find out
+	•	Alignment: Lawful Neutral
+
+Ability Scores
+
+	•	Strength: 8 (-1)
+	•	Dexterity: 17 (+3)
+	•	Constitution: 19 (+4)
+	•	Intelligence: 20 (+5)
+	•	Wisdom: 12 (+1)
+	•	Charisma: 10 (+0)
+	•	Proficiency Bonus: +6
+	•	Speed: 30 ft.
+
+Health
+
+	•	Current Hit Points: 116
+	•	Max Hit Points: 157
+	•	Temporary Hit Points: –
+
+Saving Throws
+
+	•	Strength: -1
+	•	Dexterity: +3
+	•	Constitution: +4
+	•	Intelligence: +11
+	•	Wisdom: +7
+	•	Charisma: +0
+
+Senses
+
+	•	Passive Wisdom (Perception): 11
+	•	Passive Intelligence (Investigation): 21
+	•	Passive Wisdom (Insight): 17
+	•	Darkvision: 60 ft.
+
+Proficiencies & Languages
+
+	•	Armor: Light Armor, Medium Armor, Shields
+	•	Weapons: Crossbow (Light), Dagger, Dart, Firearms (Optional rule at DM discretion), Quarterstaff, Sling
+	•	Tools: Alchemist’s Supplies, Thieves’ Tools, Tinker’s Tools
+	•	Languages: Abyssal, Common, Draconic, Infernal
+
+Skills
+
+	•	Acrobatics (DEX): +3
+	•	Animal Handling (WIS): +1
+	•	Arcana (INT): +11
+	•	Athletics (STR): -1
+	•	Deception (CHA): +0
+	•	History (INT): +5
+	•	Insight (WIS): +7
+	•	Intimidation (CHA): +0
+	•	Investigation (INT): +11
+	•	Medicine (WIS): +1
+	•	Nature (INT): +5
+	•	Perception (WIS): +1
+	•	Performance (CHA): +0
+	•	Persuasion (CHA): +0
+	•	Religion (INT): +5
+	•	Sleight of Hand (DEX): +3
+	•	Stealth (DEX): +3
+	•	Survival (WIS): +7
+	•	Initiative: +3
+	•	Armor Class: 18
+
+Defenses
+
+	•	Resistances: Necrotic, Radiant
+
+Actions
+
+	•	Attacks per Action: 1
+
+Weapons
+
+	1.	Staff of the Magi (Melee Weapon)
+	•	Range: 5 ft.
+	•	Hit: +7
+	•	Damage: 1d6+1 (1d8+1 versatile)
+	•	Charges: 48/50
+	2.	Fire Bolt (Cantrip)
+	•	Range: 120 ft.
+	•	Hit: +13
+	•	Damage: 4d10
+	3.	Ray of Sickness (1st Level)
+	•	Range: 60 ft.
+	•	Hit: +13
+	•	Damage: 2d8
+	4.	Unarmed Strike
+	•	Range: 5 ft.
+	•	Hit: +5
+	•	Damage: 0
+	5.	Healing Hands
+	•	Range: Touch
+	•	Healing: 6d4 (1/LR)
+
+Other Actions in Combat
+
+	•	Attack, Cast a Spell, Dash, Disengage, Dodge, Grapple, Help, Hide, Improvise, Ready, Search, Shove, Use an Object
+	•	Command Undead: As an action, you can choose one undead within 60 ft. to make a CHA saving throw (DC 19). If it fails, it becomes friendly to you and obeys your commands.
+	•	Healing Hands: As an action, you can touch a creature and heal it for 6d4 hit points (1/LR).
+	•	Magical Tinkering: Imbue a Tiny nonmagical object with a magical property (5 objects at a time).
+
+Bonus Actions
+
+	•	Two-Weapon Fighting
+	•	Celestial Revelation: Once per long rest, you can use a bonus action to transform using your revelation which lasts for one minute or until you end it as a bonus action.
+
+Reactions
+
+	•	Opportunity Attack
+	•	War Caster: Use your reaction to make an opportunity attack to cast a spell that has a casting time of 1 action and targets only that creature.
+
+Other Abilities
+
+	•	Arcane Recovery: Once per day when you finish a short rest, you can choose expended spell slots to recover up to a combined level of 8.
+	•	Grim Harvest: Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain HP equal to twice the spell’s level (three times if it’s a Necromancy spell).
+	•	Infuse Item: Touch up to 2 nonmagical objects, imbuing them with one of your artificer infusions.
+
+Spells
+
+	•	Spellcasting Abilities: Intelligence
+	•	Spell Save DC: 19
+	•	Spell Attack Bonus: +13
+
+Cantrips
+
+	•	Fire Bolt
+	•	Frostbite
+	•	Light
+	•	Mage Hand
+	•	Poison Spray
+	•	Prestidigitation
+	•	Spare the Dying
+	•	Toll the Dead
+
+1st-Level Spells
+
+	•	Catapult
+	•	Cure Wounds
+	•	Feather Fall
+	•	Healing Word
+	•	Magic Missile
+	•	Ray of Sickness
+	•	Sanctuary
+	•	Shield
+	•	Snare
+
+2nd-Level Spells
+
+	•	Arcane Lock
+	•	Catapult
+	•	Cure Wounds
+	•	Dragon’s Breath
+	•	Enlarge/Reduce
+	•	Flaming Sphere
+	•	Healing Word
+	•	Invisibility
+	•	Knock
+	•	Magic Missile
+	•	Misty Step
+	•	Ray of Sickness
+	•	Shatter
+	•	Web
+
+3rd-Level Spells
+
+	•	Animate Dead
+	•	Bestow Curse
+	•	Catapult
+	•	Counterspell
+	•	Cure Wounds
+	•	Dispel Magic
+	•	Dragon’s Breath
+	•	Enemies Abound
+	•	Fireball
+	•	Healing Word
+	•	Magic Missile
+	•	Ray of Sickness
+	•	Shatter
+	•	Summon Undead
+
+4th-Level Spells
+
+	•	Animate Dead
+	•	Bestow Curse
+	•	Blight
+	•	Catapult
+	•	Counterspell
+	•	Cure Wounds
+	•	Dragon’s Breath
+	•	Fireball
+	•	Healing Word
+	•	Ice Storm
+	•	Magic Missile
+	•	Ray of Sickness
+	•	Shatter
+	•	Summon Undead
+	•	Wall of Fire
+
+5th-Level Spells
+
+	•	Animate Dead
+	•	Bestow Curse
+	•	Blight
+	•	Catapult
+	•	Chain Lightning
+	•	Circle of Death
+	•	Conjure Elemental
+	•	Counterspell
+	•	Cure Wounds
+	•	Dragon’s Breath
+	•	Fireball
+	•	Healing Word
+	•	Magic Missile
+	•	Ray of Sickness
+	•	Shatter
+	•	Summon Undead
+	•	Telekinesis
+
+6th-Level Spells
+
+	•	Animate Dead
+	•	Bestow Curse
+	•	Blight
+	•	Catapult
+	•	Chain Lightning
+	•	Circle of Death
+	•	Counterspell
+	•	Cure Wounds
+	•	Delayed Blast Fireball
+	•	Dragon’s Breath
+	•	Fireball
+	•	Globe of Invulnerability
+	•	Healing Word
+	•	Magic Missile
+	•	Ray of Sickness
+	•	Shatter
+	•	Summon Undead
+
+7th-Level Spells
+
+	•	Animate Dead
+	•	Bestow Curse
+	•	Blight
+	•	Catapult
+	•	Chain Lightning
+	•	Circle of Death
+	•	Counterspell
+	•	Cure Wounds
+	•	Delayed Blast Fireball
+	•	Dragon’s Breath
+	•	Fireball
+	•	Globe of Invulnerability
+	•	Healing Word
+	•	Magic Missile
+	•	Ray of Sickness
+	•	Shatter
+	•	Summon Undead
+
+8th-Level Spells
+
+	•	Animate Dead
+	•	Antimagic Field
+	•	Bestow Curse
+	•	Blight
+	•	Catapult
+	•	Chain Lightning
+	•	Circle of Death
+	•	Counterspell
+	•	Cure Wounds
+	•	Delayed Blast Fireball
+	•	Dragon’s Breath
+	•	Fireball
+	•	Globe of Invulnerability
+	•	Healing Word
+	•	Magic Missile
+	•	Ray of Sickness
+	•	Shatter
+	•	Summon Undead
+
+9th-Level Spells
+
+	•	Animate Dead
+	•	Bestow Curse
+	•	Blight
+	•	Catapult
+	•	Chain Lightning
+	•	Circle of Death
+	•	Counterspell
+	•	Cure Wounds
+	•	Delayed Blast Fireball
+	•	Dragon’s Breath
+	•	Fireball
+	•	Globe of Invulnerability
+	•	Healing Word
+	•	Magic Missile
+	•	Ray of Sickness
+	•	Shatter
+	•	Summon Undead
+
+Inventory
+
+	•	Weight Carried: 74.5 lb. (Unencumbered)
+	•	Gold: 12,000
+
+Key Items
+
+	•	Staff of the Magi (48/50 Charges)
+	•	Amulet of Health
+	•	Libram of Souls and Flesh (3/3 Charges)
+	•	Boots of Elvenkind
+	•	Mithral Plate (AC 18)
+	•	Periapt of Wound Closure
+	•	Potion of Healing (Greater) (2)
+	•	Case, Map or Scroll (2)
+	•	Clothes, Common
+	•	Potion of Healing
+	•	Power Word Time Stop (Scroll)
+	•	Scroll of “Power Word Kill”
+	•	Spellbook
+
+Features & Traits
+
+Class Features
+
+	•	Artificer Features
+	•	Magical Tinkering: Imbue a Tiny nonmagical object with a magical property (5 objects at a time).
+	•	Spellcasting: INT (Spell DC 19, Spell Attack +11), can cast prepared artificer spells as rituals.
+	•	Infuse Item: Touch up to 2 nonmagical objects, imbuing each with one of your artificer infusions.
+	•	Artificer Infusions: Numerous magical infusions for rapid magic item creation.
+	•	The Right Tool for the Job: Create one set of artisan’s tools in an unoccupied space within 5 ft.
+	•	Tool Proficiency: Gain proficiency with alchemist’s supplies.
+	•	Experimental Elixir: Create 1 Experimental Elixir each long rest.
+	•	Wizard Features
+	•	Spellcasting: INT (Spell DC 19, Spell Attack +13), can cast prepared wizard spells as rituals.
+	•	Arcane Recovery: Once per day, recover expended spell slots up to a combined level of 8.
+	•	School of Necromancy
+	•	Necromancy Savant: Halve the gold and time needed to copy a necromancy spell.
+	•	Grim Harvest: Regain HP when you kill with a spell of 1st level or higher.
+	•	Undead Thralls: Animate an additional corpse, increase HP and weapon damage of created undead.
+	•	Inured to Undeath: Resistance to necrotic damage, HP maximum can’t be reduced.
+	•	Command Undead: Control an undead creature with a CHA saving throw (DC 19).
+
+Racial Traits
+
+	•	Celestial Resistance: Resistance to necrotic and radiant damage.
+	•	Darkvision: See in dim light within 60 ft. as if it were bright light and in darkness as if it were dim light.
+	•	Healing Hands: As an action, touch a creature and heal it for 6d4 HP (1/LR).
+	•	Light Bearer: Learn the light cantrip.
+	•	Celestial Revelation: Transform using your revelation once per long rest (1 minute).
+
+Feats
+
+	•	War Caster: Advantage on CON saves to maintain concentration on a spell, perform somatic components with hands occupied, and cast a spell as an opportunity attack.
+
+Notes
+
+	•	Lawful Neutral: Acts in accordance with law, tradition, or personal codes.

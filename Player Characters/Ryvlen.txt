@@ -1,0 +1,210 @@
+Basic Information
+
+	•	Name: Ryvlen
+	•	Race: Female Eladrin
+	•	Class/Level: Ranger 19
+	•	Campaign: Fuxk around and find out
+	•	Alignment: Chaotic Neutral
+
+Ability Scores
+
+	•	Strength: 8 (-1)
+	•	Dexterity: 20 (+5)
+	•	Constitution: 19 (+4)
+	•	Intelligence: 12 (+1)
+	•	Wisdom: 16 (+3)
+	•	Charisma: 11 (+0)
+	•	Proficiency Bonus: +6
+	•	Speed: 30 ft.
+
+Health
+
+	•	Current Hit Points: 194
+	•	Max Hit Points: 194
+	•	Temporary Hit Points: –
+
+Saving Throws
+
+	•	Strength: +6
+	•	Dexterity: +12
+	•	Constitution: +5
+	•	Intelligence: +2
+	•	Wisdom: +4
+	•	Charisma: +1
+	•	Special: Advantage to avoid or end the charmed condition, against magically created or manipulated plants.
+
+Senses
+
+	•	Passive Wisdom (Perception): 19
+	•	Passive Intelligence (Investigation): 11
+	•	Passive Wisdom (Insight): 13
+	•	Darkvision: 60 ft.
+
+Proficiencies & Languages
+
+	•	Armor: Light Armor, Medium Armor, Shields
+	•	Weapons: Martial Weapons, Simple Weapons
+	•	Tools: Vehicles (Land)
+	•	Languages: Common, Daelkyr, Draconic, Elvish, Sylvan, Vedalken
+
+Skills
+
+	•	Acrobatics (DEX): +11
+	•	Animal Handling (WIS): +9
+	•	Arcana (INT): +1
+	•	Athletics (STR): +5
+	•	Deception (CHA): +0
+	•	History (INT): +1
+	•	Insight (WIS): +3
+	•	Intimidation (CHA): +0
+	•	Investigation (INT): +1
+	•	Medicine (WIS): +3
+	•	Nature (INT):: +1
+	•	Perception (WIS): +9
+	•	Performance (CHA): +0
+	•	Persuasion (CHA): +0
+	•	Religion (INT): +1
+	•	Sleight of Hand (DEX): +5
+	•	Stealth (DEX): +11
+	•	Survival (WIS): +9
+	•	Initiative: +5
+	•	Armor Class: 17
+
+Defenses
+
+	•	Immunities: Poison, Magical Sleep
+
+Actions
+
+	•	Attacks per Action: 2
+
+Weapons
+
+	1.	Moonblade (Melee Weapon)
+		•	Range: 5 ft.
+		•	Hit: +5
+		•	Damage: 1d8-1 (1d10-1 if versatile)
+		•	Notes: 1 Charge, Martial, Versatile
+	2.	Oathbow (Ranged Weapon)
+		•	Range: 150 ft. (600 ft.)
+		•	Hit: +13
+		•	Damage: 1d8+5 + 3d6
+		•	Notes: Martial, Ammunition, Heavy, Two-Handed
+	3.	Eldritch Blast (Cantrip)
+		•	Range: 240 ft.
+		•	Hit: +6
+		•	Damage: 1d10
+		•	Notes: Count: 4, V/S
+
+Other Actions in Combat
+
+	•	Attack, Cast a Spell, Dash, Disengage, Dodge, Grapple, Help, Hide, Improvise, Ready, Search, Shove, Use an Object
+	•	Primeval Awareness: Sense certain creature types within 1-6 miles.
+
+Bonus Actions
+
+	•	Two-Weapon Fighting
+	•	Fey Step: Teleport up to 30 ft. (6 times per long rest); Spring: Can teleport another creature instead.
+	•	Exceptional Training: Command beast companion to take Dash, Disengage, or Help action.
+	•	Vanish: Use Hide action as a bonus action.
+
+Reactions
+
+	•	Opportunity Attack
+
+Other
+
+	•	Bestial Fury: Beast companion can make two attacks.
+	•	Hide in Plain Sight: Camouflage for a +10 bonus to Stealth.
+	•	Share Spells: Affect both self and beast companion with a spell.
+
+Spells
+
+	•	Spellcasting Ability: Wisdom
+	•	Spell Save DC: 17
+	•	Spell Attack Bonus: +9
+
+Cantrips
+
+	•	Eldritch Blast
+
+1st-Level Spells
+
+	•	Fog Cloud
+	•	Zephyr Strike
+
+2nd-Level Spells
+
+	•	Pass without Trace
+
+3rd-Level Spells
+
+	•	Lightning Arrow
+	•	Speak with Plants
+	•	Water Breathing
+
+4th-Level Spells
+
+	•	Conjure Woodland Beings
+	•	Grasping Vine
+
+5th-Level Spells
+
+	•	Summon Elemental
+
+Inventory
+
+	•	Weight Carried: 80.5 lb. (Unencumbered)
+	•	Gold: 19,536
+
+Key Items
+
+	•	Moonblade (Longsword)
+	•	Cloak of Arachnida
+	•	Nightmare
+	•	Oathbow (Longbow)
+	•	Ring of Protection
+	•	Bag of Tricks
+	•	Boots of Elvenkind
+	•	Amulet of Spell Reflection
+	•	Smoldering Armor, Scale Mail
+	•	Potion of Healing (6)
+
+Features & Traits
+
+Class Features
+
+	•	Favored Enemy: Dragons, Humanoids (Lizardfolk, Orcs), Elementals (Daelkyr)
+	•	Natural Explorer: Forest, Mountain, Swamp
+	•	Fighting Style: Archery (+2 bonus to ranged attacks)
+	•	Primeval Awareness
+	•	Ranger’s Companion
+	•	Ability Score Improvement
+	•	Extra Attack
+	•	Exceptional Training
+	•	Land’s Stride
+	•	Hide in Plain Sight
+	•	Bestial Fury
+	•	Vanish
+	•	Share Spells
+	•	Feral Senses
+
+Racial Traits
+
+	•	Eladrin Season: Spring
+	•	Ability Score Increases: Wisdom (+2), Constitution (+1)
+	•	Creature Type: Humanoid (Elf)
+	•	Darkvision
+	•	Fey Ancestry
+	•	Fey Step: Spring
+	•	Keen Senses: Proficient in Perception
+	•	Trance: 4-hour long rest, gain two proficiencies
+
+Feats
+
+	•	Sharpshooter
+	•	Spell Sniper
+
+Notes
+
+	•	Chaotic Neutral: Personal freedom above all.

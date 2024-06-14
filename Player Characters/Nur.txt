@@ -1,0 +1,227 @@
+Basic Information
+
+	•	Name: Nur
+	•	Race: Goblin
+	•	Class/Level: Ranger 16 / Fighter 3
+	•	Campaign: Fuxk around and find out
+	•	Alignment: Neutral Evil
+
+Ability Scores
+
+	•	Strength: 10 (+0)
+	•	Dexterity: 20 (+5)
+	•	Constitution: 18 (+4)
+	•	Intelligence: 12 (+1)
+	•	Wisdom: 15 (+2)
+	•	Charisma: 9 (-1)
+	•	Proficiency Bonus: +6
+	•	Speed: 30 ft.
+
+Health
+
+	•	Current Hit Points: 194
+	•	Max Hit Points: 194
+	•	Temporary Hit Points: –
+
+Saving Throws
+
+	•	Strength: +6
+	•	Dexterity: +11
+	•	Constitution: +4
+	•	Intelligence: +1
+	•	Wisdom: +2
+	•	Charisma: -1
+
+Senses
+
+	•	Passive Wisdom (Perception): 18
+	•	Passive Intelligence (Investigation): 17
+	•	Passive Wisdom (Insight): 12
+	•	Darkvision: 60 ft.
+
+Proficiencies & Languages
+
+	•	Armor: Light Armor, Medium Armor, Shields
+	•	Weapons: Martial Weapons, Simple Weapons
+	•	Tools: Herbalism Kit
+	•	Languages: Abyssal, Common, Dwarvish, Elvish, Goblin, Orc, Undercommon
+
+Skills
+
+	•	Acrobatics (DEX): +5
+	•	Animal Handling (WIS): +2
+	•	Arcana (INT): +1
+	•	Athletics (STR): +0
+	•	Deception (CHA): -1
+	•	History (INT): +1
+	•	Insight (WIS): +2
+	•	Intimidation (CHA): -1
+	•	Investigation (INT): +7
+	•	Medicine (WIS): +8
+	•	Nature (INT): +7
+	•	Perception (WIS): +8
+	•	Performance (CHA): -1
+	•	Persuasion (CHA): -1
+	•	Religion (INT): +7
+	•	Sleight of Hand (DEX): +5
+	•	Stealth (DEX): +5
+	•	Survival (WIS): +2
+	•	Initiative: +5
+	•	Armor Class: 17
+
+Defenses
+
+	•	Immunities: Poison
+
+Actions
+
+	•	Attacks per Action: 2
+
+Weapons
+
+	1.	Back Talker (Melee Weapon)
+		•	Range: 5 ft.
+		•	Hit: +6
+		•	Damage: 1d8 (1d10 if versatile)
+		•	Notes: Martial, Versatile
+	2.	Dragon Wing Longbow (Ranged Weapon)
+		•	Range: 150 ft. (600 ft.)
+		•	Hit: +15
+		•	Damage: 1d8+7 + 1d6 (multiple times)
+		•	Notes: Martial, Ammunition, Heavy, Two-Handed
+	3.	Unarmed Strike
+		•	Range: 5 ft.
+		•	Hit: +6
+		•	Damage: 1
+	4.	Drake’s Breath
+		•	Range: 30 ft.
+		•	Hit: 16 (DEX Save)
+		•	Damage: 10d6
+		•	Uses: 1/LR
+
+Drake Companion
+
+	•	Armor Class: 20
+	•	Hit Points: 85
+	•	Saving Throws: DEX +7, WIS +8
+	•	Draconic Essence: Immune to poison damage, deals poison damage with attacks
+	•	Bite: +9 to hit, 1d6+6 piercing + 2d6 poison
+	•	Infused Strikes: Adds 1d6 poison damage to attacks within 30 ft.
+
+Other Actions in Combat
+
+	•	Attack, Cast a Spell, Dash, Disengage, Dodge, Grapple, Help, Hide, Improvise, Ready, Search, Shove, Use an Object
+	•	Primeval Awareness: Sense certain creature types within 1-6 miles.
+	•	Unarmed Strike: Punch, kick, head-butt, etc.
+
+Bonus Actions
+
+	•	Two-Weapon Fighting
+	•	Drake Companion: Command: Shares initiative, must be commanded to act, otherwise Dodges.
+	•	Nimble Escape: Disengage or Hide as a bonus action.
+	•	Second Wind: Regain 1d10 + 3 HP once per short rest.
+	•	Vanish: Hide as a bonus action.
+
+Reactions
+
+	•	Reflexive Resistance: Give resistance to damage to self or drake within 30 ft. (6 times per long rest).
+
+Other Abilities
+
+	•	Action Surge: Take one additional action (1 time per short rest).
+	•	Fury of the Small: Deal extra +6 damage to larger creatures (6 times per long rest).
+	•	Hide in Plain Sight: Camouflage for a +10 bonus to Stealth.
+
+Spells
+
+	•	Spellcasting Ability: Wisdom
+	•	Spell Save DC: 16
+	•	Spell Attack Bonus: +8
+
+Cantrips
+
+	•	Thaumaturgy
+
+1st-Level Spells
+
+	•	Cure Wounds
+	•	Detect Magic
+
+2nd-Level Spells
+
+	•	Cordon of Arrows
+	•	Find Traps
+	•	Lesser Restoration
+	•	Pass without Trace
+
+3rd-Level Spells
+
+	•	Conjure Barrage
+	•	Cure Wounds
+	•	Fear
+
+4th-Level Spells
+
+	•	Cordon of Arrows
+	•	Stoneskin
+	•	Summon Elemental
+
+Inventory
+
+	•	Weight Carried: 27 lb. (Unencumbered)
+	•	Gold: 16,115
+
+Key Items
+
+	•	Back Talker (Longsword)
+	•	Crown of the Wrath Bringer
+	•	Dragon Wing Longbow (Longbow)
+	•	Boots of Elvenkind
+	•	Bracers of Archery
+	•	Saddle of the Cavalier
+	•	Arrows (20)
+	•	Herbalism Kit
+	•	Shortsword
+	•	Studded Leather Armor
+
+Features & Traits
+
+Class Features
+
+	•	Fighter Features
+	•	Fighting Style: Archery (+2 to attack rolls with ranged weapons)
+	•	Second Wind: Regain 1d10 + 3 HP once per short rest
+	•	Action Surge: Take one additional action once per short rest
+	•	Martial Archetype: Champion
+	•	Improved Critical: Crit on 19-20
+	•	Ranger Features
+	•	Favored Enemy: Humanoids (Elves, Humans), Beasts, Undead
+	•	Natural Explorer: Forest, Mountain, Swamp
+	•	Fighting Style: Archery (+2 to attack rolls with ranged weapons)
+	•	Spellcasting: Wisdom (DC 16, +8 to hit)
+	•	Ranger Archetype: Drakewarden
+	•	Primeval Awareness: Sense certain creature types within 1-6 miles
+	•	Draconic Gift: Thaumaturgy cantrip, learn Draconic or another language
+	•	Drake Companion: Summon drake, command it in combat
+	•	Bond of Fang and Scale: Drake gains wings, flying speed, mount capability, extra bite damage, resistance
+	•	Land’s Stride: No extra movement in difficult terrain, advantage on saves against magical plants
+	•	Hide in Plain Sight: Camouflage for +10 to Stealth
+	•	Drake’s Breath: Exhale damaging breath (10d6) once per long rest
+	•	Vanish: Hide as a bonus action
+	•	Perfected Bond: Empowered Bite, Large Drake, Reflexive Resistance (6 times per long rest)
+
+Racial Traits
+
+	•	Ability Score Increases: Strength +2, Constitution +1
+	•	Darkvision: 60 ft.
+	•	Fey Ancestry: Advantage on saves to avoid/end charmed condition
+	•	Fury of the Small: Extra +6 damage to larger creatures (6 times per long rest)
+	•	Nimble Escape: Disengage or Hide as a bonus action
+
+Feats
+
+	•	Sharpshooter: No disadvantage at long range, ignore cover, -5 attack for +10 damage
+
+Notes
+
+	•	Neutral Evil: Does whatever they can get away with, without compassion or qualms.
